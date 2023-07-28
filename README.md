@@ -1,4 +1,5 @@
 # Hi there, I'm Melos :wave:
+Seasoned software developer with a track record of delivering high-quality applications both independently and collaboratively. Expertise in translating complex requirements into effective solutions.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=melos-simeneh&show_icons=true&theme=dark" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melos-simeneh&layout=compact&theme=dark" />
