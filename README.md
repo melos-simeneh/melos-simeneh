@@ -1,4 +1,4 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=melos-simeneh.melos-simeneh" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=melos-simeneh.melos-simeneh" />
 
 # Hi there, I'm Melos :wave:
 
