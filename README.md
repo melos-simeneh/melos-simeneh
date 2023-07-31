@@ -11,3 +11,6 @@ Seasoned software developer with a track record of delivering high-quality appli
 <img align="left"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left"  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+
+<img width=390 src="https://streak-stats.demolab.com/?user=melos-simeneh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
