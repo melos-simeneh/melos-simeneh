@@ -1,3 +1,5 @@
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmelos-simeneh&countColor=%23263759" />
+
 # Hi there, I'm Melos :wave:
 
 Seasoned software developer with a track record of delivering high-quality applications both independently and collaboratively. Expertise in translating complex requirements into effective solutions.
