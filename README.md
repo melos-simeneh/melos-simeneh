@@ -1,4 +1,4 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmelos-simeneh&countColor=%23263759" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=melos-simeneh.melos-simeneh" />
 
 # Hi there, I'm Melos :wave:
 
