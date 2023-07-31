@@ -25,7 +25,7 @@ Seasoned software developer with a track record of delivering high-quality appli
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=next,react,javascript,nodejs,express,fastapi,flask,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=next,react,javascript,nodejs,express,fastapi,flask,mongodb,mysql,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,html,css,vscode,figma,git" />
 </div>
 
