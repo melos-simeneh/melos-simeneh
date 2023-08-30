@@ -19,7 +19,7 @@ Seasoned software developer with a track record of delivering high-quality appli
 
 <img align="left" width="47%" src="https://streak-stats.demolab.com/?user=melos-simeneh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=melos-simeneh&show_icons=true&theme=dark" />
-<img align="center" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=melos-simeneh&layout=compact&theme=dark" />
+<img align="center" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=melos-simeneh&theme=dark&layout=compact" />
 
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
